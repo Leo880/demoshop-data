@@ -17393,5 +17393,327 @@
         "text": "Highly recommended."
       }
     ]
+  },
+  {
+    "id": "338",
+    "title": "thundercomm-turbox-c404-c405-development-kit-1000x1000",
+    "category": "multi-channel echo cancellation ,",
+    "tags": [
+      "multi-channel echo cancellation ,",
+      "Robu"
+    ],
+    "price": 75000.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "The TurboX C404/C405 development kit is designed based on the Thundercomm latest C404/C405 SOM(QCS404/405) which is dedicated for the smart audio platform. It can support far-field voice pick up technologies with keyword detection, multi-channel echo cancellation and beamforming, many voice platforms including Amazon Alexa Voice Services and Google Assistant.",
+    "rating": 3.9,
+    "reviewCount": 39,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Asmit",
+        "stars": 3,
+        "text": "Expensive quality for the price."
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "339",
+    "title": "Embedded Development Board",
+    "category": " NVIDIA Jetson Nano,",
+    "tags": [
+      " NVIDIA Jetson Nano ,",
+      "Robu"
+    ],
+    "price":  24450.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "Based on NVIDIA Jetson Nano, The board Includes SOM, Heatsink with PWMfan Power Supply and Power Cord",
+    "rating": 3.6,
+    "reviewCount": 35,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Jai",
+        "stars": 3,
+        "text": "Not upto my expectation."
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Reasonable quality for the price but average performance."
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+      
+    ]
+  },
+  {
+    "id": "340",
+    "title": "Embedded Linux Board, 4 GB",
+    "category": " OpenWRT application development,",
+    "tags": [
+      " OpenWRT application development "      
+    ],
+    "price":  6000,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "Argus can efficiently port Embedded Linux, DSP BIOS, VxWorks, ThreadX, Nucleus, WinCE, uITRON, Mac OS, etc on your SoCs.Our well-proven porting methodology will substantially reduce your porting time and development costs",
+    "rating": 3.6,
+    "reviewCount": 35,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sam",
+        "stars": 3.7,
+        "text": "Not bad."
+      },
+      {
+        "id": "r2",
+        "name": "Harsha",
+        "stars": 3.4,
+        "text": "average performance, but cheap price"
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Well suited only for linux operations"
+      }
+      
+    ]
+  },
+  {
+    "id": "341",
+    "title": "Zybo Development Board",
+    "category": " Electronic circuit and component spares,",
+    "tags": [
+      " Electronic circuit and component spares "      
+    ],
+    "price":  32800,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "feature-rich, ready-to-use, entry-level embedded software and digital circuit development platform built around the smallest member of the Xilinx Zynq-7000 family",
+    "rating": 3.8,
+    "reviewCount": 37,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Bhuja",
+        "stars": 3.7,
+        "text": "Well designed product!!!"
+      },
+      {
+        "id": "r2",
+        "name": "Shubh",
+        "stars": 3.4,
+        "text": "Good product!!!!!"
+      },
+      {
+        "id": "r3",
+        "name": "Hemant",
+        "stars": 3.7,
+        "text": "Series from Z-10 are reliable. "
+      }
+      
+    ]
+  },
+  {
+    "id": "342",
+    "title": "Arduino Uno Embedded Development Boards",
+    "category": " Boards Compatible with Arduino,",
+    "tags": [
+      " Boards Compatible with Arduino "      
+    ],
+    "price":  650,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "program & test all devices with LED blinking Program",
+    "rating": 3.8,
+    "reviewCount": 36,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sandhya",
+        "stars": 3.7,
+        "text": "Very useful product!!!"
+      },
+      {
+        "id": "r2",
+        "name": "Athuka",
+        "stars": 3.4,
+        "text": "Well designed!!!"
+      },
+      {
+        "id": "r3",
+        "name": "Hema",
+        "stars": 3.7,
+        "text": "Good for testing "
+      }
+      
+    ]
+  },
+  {
+    "id": "343",
+    "title": "Edge AI Computer Orin Nano HyperEdge Mini",
+    "category": " Electronic circuit and component spares, AI edge computer", 
+
+    "tags": [
+      " AI edge computer "      
+    ],
+    "price":  75000,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "The AGX Orin HyperEdge Mini is a vehicle-mounted AI edge computer built on the NVIDIA Jetson AGX Orin module. It delivers upto 40 TOPS of AI computing performance in its highest configuration.",
+    "rating": 3.5,
+    "reviewCount": 33,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sandhya",
+        "stars": 3.7,
+        "text": "Very useful product!!!"
+      },
+      {
+        "id": "r2",
+        "name": "Athuka",
+        "stars": 3.4,
+        "text": "Well designed!!!"
+      },
+      {
+        "id": "r3",
+        "name": "Hema",
+        "stars": 3.7,
+        "text": "Good for testing "
+      }
+      
+    ]
+  },
+  {
+    "id": "344",
+    "title": "Purple Esp32 38pin Expansion Board",
+    "category": " Electronic circuit and component spares, ESP32S 38pin Expansion Card", 
+
+    "tags": [
+      " ESP32S 38pin Expansion Card "      
+    ],
+    "price":  139,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "The Purple ESP32 38-pin Expansion Board is a compact, versatile accessory for ESP32 development. It features 38 GPIO pins for extended functionality, enabling seamless integration of additional sensors, displays, or peripherals.",
+    "rating": 3.6,
+    "reviewCount": 34,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amar",
+        "stars": 3.7,
+        "text": "Very useful product!!!"
+      },
+      {
+        "id": "r2",
+        "name": "Dara",
+        "stars": 3.4,
+        "text": "Well designed!!!"
+      },
+      {
+        "id": "r3",
+        "name": "Solma",
+        "stars": 3.7,
+        "text": "Good for testing "
+      }
+      
+    ]
+  },
+  {
+    "id": "345",
+    "title": "8051 Development Board",
+    "category": " Electronic circuit and component spares,8051 Development Board", 
+
+    "tags": [
+      " ESP32S 38pin Expansion Card,8051 Development Board "      
+    ],
+    "price":  139,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/cytron_maker_uno_plus_simplifying_arduino_for_education_3.png"
+    ],
+    "description": "offering 8051 Development Board. It is available with us in diverse configurations that meet on client's demand.",
+    "rating": 3.3,
+    "reviewCount": 31,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amar",
+        "stars": 3.1,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Dara",
+        "stars": 3.1,
+        "text": "Not upto my expectation."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 3.1,
+        "text": "Not appealing "
+      }
+      
+    ]
   }
 ]
